@@ -1,1 +1,2 @@
 # CodingSchool
+Test info

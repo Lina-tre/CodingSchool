@@ -1,0 +1,29 @@
+.menu{
+	display: flex;
+	justify-content: space-between;
+	width: 400px;
+	list-style: none;
+}
+
+
+.menu-item{
+	color:white;
+	text-transform:uppercase;
+	font-size: 13px;
+	
+}
+
+header{
+	background: black;
+	
+}
+
+ul{
+	background: #a2ca28;
+
+}
+
+.header{
+	display: flex;
+	justify-content: space-between;
+}

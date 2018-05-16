@@ -10,12 +10,12 @@
 	font-size: 13px;	
 }
 
-.header{
+
+.div-header{
 	display: flex;
 	justify-content: space-between;
 
 }
-
 .my-header{
 	background-image: url('./images/background.jpg');
 	height: 890px;

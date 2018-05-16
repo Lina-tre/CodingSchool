@@ -4,26 +4,111 @@
 	width: 400px;
 	list-style: none;
 }
-
-
 .menu-item{
 	color:white;
 	text-transform:uppercase;
-	font-size: 13px;
-	
-}
-
-header{
-	background: black;
-	
-}
-
-ul{
-	background: #a2ca28;
-
+	font-size: 13px;	
 }
 
 .header{
 	display: flex;
 	justify-content: space-between;
+
+}
+
+.my-header{
+	background-image: url('./images/background.jpg');
+	height: 890px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50%;
+
+
+}
+
+.title{
+	margin-top: 633px;
+	color: white;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-left: 38px;
+}
+.subtitle{
+	color: white;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-left: 252px;
+}
+.benefits{
+	background: #a2ca28;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    padding-right: 90px;  
+    padding-left: 90px;   	
+}
+
+.block-title{
+	color: white;
+	font-size: 24px;
+}
+
+.link{
+	color: white;
+}
+
+
+.block{
+	color: white;
+}
+
+
+.img-section{
+	color: #e3e9ea;
+}
+
+.div-title{
+	color: #a2ca28;
+}
+
+.div-subtitle{
+	color: #fd634e;
+
+}
+
+.my-section{
+	display: flex;
+    margin-top: -16px;
+    justify-content: flex-end;
+    background: #a2ca28;
+    
+
+
+}
+
+.my-div{
+	background: white;
+	padding-left: 125px;
+	text-align: center;
+
+
+}
+
+.second-section{
+	display: flex;
+	justify-content: flex-end;
+    background: #a2ca28;
+    margin-top: 0px;
+    padding-right: 14px;
+
+    
+}
+
+.link-read{
+	color: #a2ca28;
+
 }

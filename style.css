@@ -73,10 +73,14 @@
 
 .div-title{
 	color: #a2ca28;
+	font-size: 35px;
+	text-transform: uppercase;
 }
 
 .div-subtitle{
 	color: #fd634e;
+	font-size: 14px;
+	text-transform: uppercase;
 
 }
 
@@ -93,7 +97,7 @@
 .my-div{
 	background: white;
 	padding-left: 125px;
-	text-align: center;
+	justify-content: 
 
 
 }
@@ -110,5 +114,7 @@
 
 .link-read{
 	color: #a2ca28;
+	font-size: 14px;
+	text-transform: capitalize;
 
 }

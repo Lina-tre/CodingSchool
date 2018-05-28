@@ -47,9 +47,8 @@
 	list-style: none;
 	padding-top: 20px;
     padding-bottom: 20px;
-    margin-top: 0px;
-    padding-right: 90px;  
-    padding-left: 90px;   	
+    width: 1053px;
+    margin: 0 auto; 	
 }
 
 .block-title{
@@ -86,8 +85,7 @@
 
 .my-section{
 	display: flex;
-    margin-top: -16px;
-    justify-content: flex-end;
+    justify-content: center;
     background: #a2ca28;
     
 
@@ -96,21 +94,14 @@
 
 .my-div{
 	background: white;
-	padding-left: 125px;
-	justify-content: 
+	text-align: center;
+	width: 900px;
+	margin: 0 auto;
 
 
 }
 
-.second-section{
-	display: flex;
-	justify-content: flex-end;
-    background: #a2ca28;
-    margin-top: 0px;
-    padding-right: 14px;
 
-    
-}
 
 .link-read{
 	color: #a2ca28;
